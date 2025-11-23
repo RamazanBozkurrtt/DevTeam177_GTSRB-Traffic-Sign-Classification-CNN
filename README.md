@@ -16,12 +16,5 @@ Proje kapsamında, hazır (pre-trained) modeller yerine kendi tasarladığımız
 * **Framework:** PyTorch
 * **Kütüphaneler:** Pandas, NumPy, OpenCV, Matplotlib, Seaborn, Scikit-learn
 
-## 📂 Dosya Yapısı
-* `basic_cnn_model_training.py`: Model A'nın eğitimi.
-* `SimpleCNN_Egitim.py`: Model B'nin eğitimi.
-* `model_test.py`: Modellerin test edilmesi ve metriklerin çıkarılması.
-* `Veri_Düzenleme.py`: Veri setinin yüklenmesi ve ön işleme adımları.
-* `Project_Report.pdf`: Proje ilerleme raporu.
-
 ## 📊 Sonuçlar
 Modellerimiz test veri seti üzerinde yüksek başarı oranlarına ulaşmıştır. Detaylı performans metrikleri ve karmaşıklık matrisleri (confusion matrix) rapor dosyasında mevcuttur.
